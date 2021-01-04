@@ -1,0 +1,12 @@
+@font-face{
+    font-family: SF-Heavy;
+    src: url('./fonts/SF-Pro-Text-Heavy.otf');
+}
+@font-face{
+    font-family: SF-light;
+    src: url('./fonts/SF-Pro-Text-Light.otf');
+}
+@font-face{
+    font-family: SF-semibold;
+    src: url('./fonts/SF-Pro-Text-Semibold.otf');
+}
