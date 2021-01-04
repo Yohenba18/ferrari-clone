@@ -5,6 +5,7 @@
     background: #040404 url("FerrariBackground.jpg") top center fixed no-repeat ;
 }
 
+
 .navbar-header h1{
     color: white;
     font-family: SF-Heavy;
@@ -13,8 +14,9 @@
     border-bottom: 7px solid yellow;
 }
 
-li{
-align-content: flex-end;
+.collapse .nav li a{
+    display: flex;
+   align-content: flex-end;
    color:#A0A0A0;
    font-size: larger;
    font-family: SF-light;
